@@ -27,4 +27,4 @@ Open je verkenner en navigeer naar de geclonede repo folder, kijk in de map 'out
 
 Om de applicatie te sluiten klik je (in de applicatie zelf) op 'file' bovenin de navigatiebalk en klik je op 'exit'.
 
-
+***
