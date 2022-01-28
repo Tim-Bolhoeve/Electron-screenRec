@@ -24,6 +24,7 @@ Om de applicatie te verversen na het aanpassen van een stukje code, typ "rs" in 
 * ``` npm run make ```
 Zal de applicatie bouwen door een .exe te maken in de 'out' folder die wordt gecreëerd.
 Open je verkenner en navigeer naar de geclonede repo folder, kijk in de map 'out' en dubbelklik 'tron-forge-1.0.0 Setup.exe'. Dit hoeft maar een keer.
+Als de setup klaar is zal er een op het bureaublad icoon verschijnen, klik op dit icoon om de applicatie te starten.
 
 Om de applicatie te sluiten klik je (in de applicatie zelf) op 'file' bovenin de navigatiebalk en klik je op 'exit'.
 
