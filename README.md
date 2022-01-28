@@ -1,2 +1,28 @@
 # Electron-screenRec
-Een screenrecorder gemaakt met Electron en JS
+Gemaakt door Tim Bolhoeve
+
+## Installatie
+1. Clone de repo https://github.com/Tim-Bolhoeve/Electron-screenRec.git
+
+2. Open de terminal in jouw IDE en typ 
+``` 
+npm init -y
+```
+
+3. Als dat klaar is, typ:
+```
+npm i electron -d
+```
+
+4. Na het installeren van Electron kun je 2 dingen doen.
+* ``` npm start ```
+"npm start" zal de applicatie lokaal op je computer starten.
+Om de applicatie te verversen na het aanpassen van een stukje code, typ "rs" in de console.
+
+* ``` npm run make ```
+"npm run make" zal de applicatie bouwen door een .exe te maken in de 'out' folder die wordt gecreëerd.
+Open je verkenner en navigeer naar de geclonede repo folder, kijk in de map 'out' en dubbelklik 'tron-forge-1.0.0 Setup.exe'. Dit hoeft maar een keer.
+
+Om de applicatie te sluiten klik je (in de applicatie zelf) op 'file' bovenin de navigatiebalk en klik je op 'exit'.
+
+
