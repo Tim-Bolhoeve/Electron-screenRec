@@ -4,17 +4,19 @@ Gemaakt door Tim Bolhoeve
 ## Installatie
 1. Clone de repo https://github.com/Tim-Bolhoeve/Electron-screenRec.git
 
-2. Open de terminal in jouw IDE en typ 
+2. Installeer [Node](https://nodejs.org/en/) op je computer (als je dat nog niet hebt)
+
+3. Open de terminal in jouw IDE en typ 
 ``` 
 npm init -y
 ```
 
-3. Als dat klaar is, typ:
+4. Als dat klaar is, typ:
 ```
 npm i electron -d
 ```
 
-4. Na het installeren van Electron kun je 2 dingen doen.
+5. Na het installeren van Electron kun je 2 dingen doen.
 * ``` npm start ```
 Zal de applicatie lokaal op je computer starten.
 Om de applicatie te verversen na het aanpassen van een stukje code, typ "rs" in de console.
