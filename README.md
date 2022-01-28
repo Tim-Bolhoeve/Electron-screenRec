@@ -16,11 +16,11 @@ npm i electron -d
 
 4. Na het installeren van Electron kun je 2 dingen doen.
 * ``` npm start ```
-"npm start" zal de applicatie lokaal op je computer starten.
+Zal de applicatie lokaal op je computer starten.
 Om de applicatie te verversen na het aanpassen van een stukje code, typ "rs" in de console.
 
 * ``` npm run make ```
-"npm run make" zal de applicatie bouwen door een .exe te maken in de 'out' folder die wordt gecreëerd.
+Zal de applicatie bouwen door een .exe te maken in de 'out' folder die wordt gecreëerd.
 Open je verkenner en navigeer naar de geclonede repo folder, kijk in de map 'out' en dubbelklik 'tron-forge-1.0.0 Setup.exe'. Dit hoeft maar een keer.
 
 Om de applicatie te sluiten klik je (in de applicatie zelf) op 'file' bovenin de navigatiebalk en klik je op 'exit'.
