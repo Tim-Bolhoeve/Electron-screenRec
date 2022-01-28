@@ -76,7 +76,7 @@ async function selectSource(source) {
 }
 
 function handleDataAvailable(e) {
-  console.log('video data available');
+  console.log('Video data beschikbaar');
   recordedChunks.push(e.data);
 }
 
@@ -89,12 +89,12 @@ async function handleStop(e) {
   const buffer = Buffer.from(await blob.arrayBuffer());
 
   const { filePath } = await dialog.showSaveDialog({
-    buttonLabel: 'Save video',
+    buttonLabel: 'Video Opslaan',
     defaultPath: `vid-${Date.now()}.webm`
   });
 
   if (filePath) {
-    writeFile(filePath, buffer, () => console.log('video saved successfully!'));
+    writeFile(filePath, buffer, () => console.log('Video Opgeslagen!'));
   }
 
 }
